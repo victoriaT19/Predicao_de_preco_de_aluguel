@@ -22,14 +22,15 @@ Este projeto realiza a análise exploratória de dados (EDA) e a modelagem predi
    git clone https://github.com/victoriaT19/Predicao_de_preco_de_aluguel.git
    cd nome-do-seu-repositorio
 
-📊 Resultados
+## 📊 Resultados
+
 O modelo foi avaliado utilizando as métricas:
 
 - MAE (Erro Absoluto Médio): Resultado 44,65
 - RMSE (Raiz do Erro Quadrático Médio): Resultado 73,08
 - R² (Coeficiente de Determinação): Resultado  0,51
 
-📦 Requisitos
+## 📦 Requisitos
 
 - joblib
 - matplotlib
