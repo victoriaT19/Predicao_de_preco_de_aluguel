@@ -1,5 +1,5 @@
 # Predicao_de_preco_de_aluguel
-modelo de predição de preço de aluguel
+Modelo de predição de preço de aluguel
 
 # Análise e Modelagem Preditiva de Preços
 
