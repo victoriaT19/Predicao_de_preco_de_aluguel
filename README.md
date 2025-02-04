@@ -7,11 +7,12 @@ Este projeto realiza a análise exploratória de dados (EDA) e a modelagem predi
 
 ## 📁 Estrutura do Projeto
 
-- `EDA.ipynb`: Notebook com a análise exploratória dos dados.
-- `modelo.ipynb`: Notebook com o pipeline de modelagem preditiva.
-- `modelo_predicao1.pkl`: Arquivo com o modelo treinado.
-- `train.csv` e `test.csv`: Dados de treino e teste separados.
-- `requirements.txt`: Lista de pacotes necessários para rodar o projeto.
+- `EDA.ipynb`: Notebook com a análise exploratória dos dados. [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/blob/main/notebooks/EDA.ipynb).
+- `modelo.ipynb`: Notebook com o pipeline de modelagem preditiva. [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/blob/main/notebooks/modelo.ipynb).
+- `modelo_predicao1.pkl`: Arquivo com o modelo treinado. [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/tree/main/model).
+- `train.csv` e `test.csv`: Dados de treino e teste separados. [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/tree/main/data).
+- `requirements.txt`: Lista de pacotes necessários para rodar o projeto. [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/blob/main/requeriments.txt).
+- `relatorio`: Relatório da Análise Estatística e Exploratória de Dados (EDA). [aqui](https://github.com/victoriaT19/Predicao_de_preco_de_aluguel/blob/main/docs/relatorio.pdf).
 
 ## 🚀 Como Executar o Projeto
 
