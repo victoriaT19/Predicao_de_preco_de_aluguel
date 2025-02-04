@@ -3,7 +3,7 @@ modelo de predição de preço de aluguel
 
 # Análise e Modelagem Preditiva de Preços
 
-Este projeto realiza a análise exploratória de dados (EDA) e a modelagem preditiva de preços de imóveis com base em um conjunto de dados do Airbnb. O modelo final utiliza uma regressão com **Random Forest** para prever o preço de locação de propriedades.
+Este projeto realiza a análise exploratória de dados (EDA) e a modelagem preditiva de preços de aluguéis temporários na cidade de Nova York. O modelo final utiliza uma regressão com **Random Forest** para estimar o preço de locação de propriedades.
 
 ## 📁 Estrutura do Projeto
 
